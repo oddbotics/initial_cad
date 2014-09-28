@@ -8,7 +8,7 @@ I have decided to use Solidworks as my CAD tool for OddBot. This is primarily be
 Day 1. I want to nail down what I am putting into the brain module. So far here is what I got:
 
 1. mini-ITX form factor Motherboard.
-- Size: 170mm x 170mm x 
+  - Size: 170mm x 170mm x 
 - [link](http://www.newegg.com/Product/Product.aspx?Item=N82E16813157451&cm_re=h81_mini-itx-_-13-157-451-_-Product)
 2. Battery
 - Size: 185mm x 125mm x 15.5mm
